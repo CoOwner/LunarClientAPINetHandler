@@ -7,6 +7,10 @@
 
 The LunarClientAPINetHandler is the container for all of Lunar Client's packet handling.
 
+## JAR
+
+The .jar file can be found in my release page, https://github.com/CoOwner/LunarClientAPINetHandler/releases.
+
 ## Reporting an issue
 
 If you suspect an issue you can submit one [here](https://github.com/CoOwner/LunarClientAPINetHandler/issues).
